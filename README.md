@@ -1,4 +1,4 @@
-\# Eaglercraft Offline Version List
+# Eaglercraft Offline Version List
 
 
 
@@ -6,7 +6,7 @@ This is a list of all offline versions of the Eaglercraft client. Offline means 
 
 
 
-\# Adding To This List
+# Adding To This List
 
 
 
